@@ -1,0 +1,22 @@
+.home-hader-text{
+    color: orange;
+    font-weight: 700;
+    font-size: 45px;
+}
+.btn-primary{
+    background-color: orange;
+    color: black;
+    border: none;
+    padding: 7px 15px;
+    font-weight: 600;
+    font-size: 17px;
+    border-radius: 10px;
+}
+.info{
+    text-align: justify;
+    font-weight: 500;
+}
+.services-title{
+    font-weight: 600;
+    font-size: 40px;
+}

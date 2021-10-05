@@ -1,0 +1,41 @@
+[
+    {
+      "id": "uni1",
+      "coursetitle": "Java",
+      "subtitle": "High-level programming language",
+      "image": "https://2.imimg.com/data2/WE/TT/MY-/6-500x500.jpg",
+      "duration": "3 Monthes",
+      "fee": "$200",
+      "description": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible."
+    },
+    {
+      "id": "uni2",
+      "coursetitle": "Kotlin",
+      "subtitle": "Programming language",
+      "image": "https://phauer.com/blog/2016/1120-kotlin-java-ecosystem-language/featured-image-large.png",
+      "duration": "3 Monthes",
+      "fee": "$300",
+      "description": "Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference.Kotlin is designed to interoperate fully with Java."
+
+    },
+    {
+      "id": "uni3",
+      "coursetitle": "C++",
+      "subtitle": "Programming language",
+      "image": "https://theindianwire.com/wp-content/uploads/2018/06/CBuilder-logo.png",
+      "duration": "2 Monthes",
+      "fee": "$100",
+      "description": "C++ is a general-purpose programming language created by Bjarne Stroustrup as an extension cross-platform, statically typed of the C programming language."
+
+    },
+    {
+      "id": "uni4",
+      "coursetitle": "Python",
+      "subtitle": "High-level programming language",
+      "image": "https://chtc.cs.wisc.edu/images/Python_Logo.png",
+      "duration": "1 Monthes",
+      "fee": "$200",
+      "description": "Python is class-based an interpreted high-level general-purpose an programming language. Its design its use of significant statically indentation."
+
+    }
+]

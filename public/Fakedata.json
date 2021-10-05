@@ -1,0 +1,81 @@
+[
+    {
+      "id": "uni1",
+      "coursetitle": "Java",
+      "subtitle": "High-level programming language",
+      "image": "https://2.imimg.com/data2/WE/TT/MY-/6-500x500.jpg",
+      "duration": "3 Monthes",
+      "fee": "$200",
+      "description": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible."
+    },
+    {
+      "id": "uni2",
+      "coursetitle": "Kotlin",
+      "subtitle": "Programming language",
+      "image": "https://phauer.com/blog/2016/1120-kotlin-java-ecosystem-language/featured-image-large.png",
+      "duration": "3 Monthes",
+      "fee": "$300",
+      "description": "Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference.Kotlin is designed to interoperate fully with Java."
+
+    },
+    {
+      "id": "uni3",
+      "coursetitle": "C++",
+      "subtitle": "Programming language",
+      "image": "https://theindianwire.com/wp-content/uploads/2018/06/CBuilder-logo.png",
+      "duration": "2 Monthes",
+      "fee": "$100",
+      "description": "C++ is high-level often abbreviated a general-purpose programming language created by Bjarne Stroustrup as an extension emphasizes code of the C programming language."
+
+    },
+    {
+      "id": "uni4",
+      "coursetitle": "Python",
+      "subtitle": "High-level programming language",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcl2CrZkD1Nt5_cPrMlTV4CxjbmGIeQsl6bCPOaRNWkRRuWjDSZPiXAlCLlIGMz-fS6Vk&usqp=CAU",
+      "duration": "1 Monthes",
+      "fee": "$200",
+      "description": "Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability indentation."
+
+    },
+    {
+      "id": "uni5",
+      "coursetitle": "React",
+      "subtitle": "JavaScript library",
+      "image": "https://cdn.hashnode.com/res/hashnode/image/upload/v1513321478077/ByCWNxZMf.png",
+      "duration": "1 Monthes",
+      "fee": "$250",
+      "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community."
+
+    },
+    {
+      "id": "uni6",
+      "coursetitle": "JavaScript",
+      "subtitle": "Programming language",
+      "image": "https://scand.com/wp-content/uploads/2021/04/JavaScript.jpg",
+      "duration": "3 Monthes",
+      "fee": "$150",
+      "description": "JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. JavaScript is high-level."
+
+    },
+    {
+      "id": "uni7",
+      "coursetitle": "Swift",
+      "subtitle": "Programming language",
+      "image": "https://fenixium.com/public/uploads/frontend/profile_picture/preview/NO9K2G36Tj1M.jpg",
+      "duration": "2 Monthes",
+      "fee": "$120",
+      "description": "Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. and the open-source community."
+
+    },
+    {
+      "id": "uni8",
+      "coursetitle": "C#",
+      "subtitle": "Programming language",
+      "image": "https://loopskill.com/upload/exam/international-c-sharp-certification.png",
+      "duration": "1 Monthes",
+      "fee": "$180",
+      "description": "C# is a general-purpose, multi-paradigm programming language. C# encompasses static typing, strong typing, lexically scoped, imperative."
+
+    }
+]
