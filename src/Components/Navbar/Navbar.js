@@ -17,7 +17,7 @@ const Navbar = () => {
     </Nav>
     <Nav className="navlinks">
         <NavLink className="home" to="/">Home</NavLink>
-        <NavLink className="service" to="/service">Service</NavLink>
+        <NavLink className="#service" to="/service">Service</NavLink>
         <NavLink className="aboutus" to="/aboutus">About us</NavLink>
         <NavLink className="trainers" to="/trainers">Trainers</NavLink>
     </Nav>
